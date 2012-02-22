@@ -1,0 +1,127 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Hello Xcode */ = {
+		activeExec = 0;
+		executables = (
+			C1E8852314F4CB5700B9FD93 /* Hello Xcode */,
+		);
+	};
+	28D7ACF70DDB3853001CB0EB /* Hello_XcodeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 505}";
+			sepNavWindowFrame = "{{323, 102}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C1E8852314F4CB5700B9FD93 /* Hello Xcode */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Hello Xcode */;
+		codeSenseManager = C1E8853C14F4CB6200B9FD93 /* Code sense */;
+		executables = (
+			C1E8852314F4CB5700B9FD93 /* Hello Xcode */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					263,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351587159;
+			PBXWorkspaceStateSaveDate = 351587159;
+		};
+		perUserProjectItems = {
+			C1E8854114F4CBFB00B9FD93 /* PlistBookmark */ = C1E8854114F4CBFB00B9FD93 /* PlistBookmark */;
+			C1E8854214F4CBFB00B9FD93 /* PBXBookmark */ = C1E8854214F4CBFB00B9FD93 /* PBXBookmark */;
+			C1E8854314F4CBFB00B9FD93 /* PBXTextBookmark */ = C1E8854314F4CBFB00B9FD93 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C1E8853B14F4CB6200B9FD93 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C1E8852314F4CB5700B9FD93 /* Hello Xcode */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Hello Xcode";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	C1E8853B14F4CB6200B9FD93 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	C1E8853C14F4CB6200B9FD93 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C1E8854114F4CBFB00B9FD93 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Hello_Xcode-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/dw/Documents/Hello Xcode/Hello_Xcode-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	C1E8854214F4CBFB00B9FD93 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Hello_XcodeViewController.m */;
+	};
+	C1E8854314F4CBFB00B9FD93 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Hello_XcodeViewController.m */;
+		name = "Hello_XcodeViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+}
